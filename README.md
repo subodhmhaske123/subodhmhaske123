@@ -1,12 +1,9 @@
 ## Hi there 👋 I'm Subodh Mhaske
 I'm a fresher Computer Engineering with practical experience as a Java Developer Intern. I have a strong foundation in backend development, object-oriented programming, and databases, with a passion for creating scalable, real-world solutions.
 
-💻 My Tech Stack<br>
-Languages           
-- Java               - Python                  - HTML / CSS<br>
-Frameworks & Libraries
+💻 My Tech Stack        
+- Java               - Python                  - HTML / CSS
 - Spring Boot        - OpenCV                  - Tensorflow / keras / CNN<br>
-Databases & Tools
 - MySQL / MongoDB    - Tomcat                  - Swagger
 
 
