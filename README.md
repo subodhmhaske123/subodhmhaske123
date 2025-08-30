@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm Subodh Mhaske
+I'm a fresher Computer Engineering with practical experience as a Java Developer Intern. I have a strong foundation in backend development, object-oriented programming, and databases, with a passion for creating scalable, real-world solutions.
 
-<!--
-**subodhmhaske123/subodhmhaske123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My Tech Stack
+Languages            Frameworks & Libraries         Databases & Tools
+- Java               - Spring Boot                  - MySQL / MongoDB
+- Python             - OpenCV                       - Tomcat
+- HTML/CSS           - Tensorflow / keras / CNN     - Swagger
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Projects
+# Blogging Platform
+A full-stack blogging platform built with Spring Boot, JSP/Thymeleaf, and MySQL. It features secure authentication, RESTful APIs, and was deployed on a Tomcat server for a production-level simulation.
+
+Technologies: Java, Spring Boot, MySQL, JSP, Thymeleaf, Tomcat, Swagger
+
+
+# Emotion Recognition System
+An intelligent system that detects facial expressions from a webcam using a CNN model. It integrates with the Spotify API to provide personalized music recommendations based on the user's mood.
+
+Technologies: Python, OpenCV, TensorFlow/Keras, CNN, Spotify API
+Accuracy: ~90% in emotion recognition
+
+
+# 🌱 Education & Experience
+I'm Finished my B.E. in Computer Engineering at N.Y.S.S. Datta Meghe College of Engineering, graduate in May 2025.
+
+As a Java Developer Intern at Mira Advance Engineering, I gained hands-on experience by building and optimizing Java-based applications and actively participating in code reviews to improve project quality.
+
+# 🏆 Leadership & Achievements
+Hackathon Participant: Selected among the top 15 teams out of 45 in a college hackathon for developing an innovative solution under time constraints.
+
+Sponsorship Volunteer: Collaborated with sponsors to organize tech events for 200+ students with the Computer Society of India (CSI-DMCE).
+
+# 📫 Connect with Me
+LinkedIn: www.linkedin.com/in/subodh-mhaske
+
+Email: subodhmhaske123@gmail.com
+
+Thanks for stopping by! 👋
