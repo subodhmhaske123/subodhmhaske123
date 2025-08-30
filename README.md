@@ -2,10 +2,12 @@
 I'm a fresher Computer Engineering with practical experience as a Java Developer Intern. I have a strong foundation in backend development, object-oriented programming, and databases, with a passion for creating scalable, real-world solutions.
 
 💻 My Tech Stack
-Languages            Frameworks & Libraries         Databases & Tools
-- Java               - Spring Boot                  - MySQL / MongoDB
-- Python             - OpenCV                       - Tomcat
-- HTML/CSS           - Tensorflow / keras / CNN     - Swagger
+Languages           
+- Java               - Python                  - HTML / CSS
+Frameworks & Libraries
+- Spring Boot        - OpenCV                  - Tensorflow / keras / CNN
+Databases & Tools
+- MySQL / MongoDB    - Tomcat                  - Swagger
 
 
 # 🚀 Projects
